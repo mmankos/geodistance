@@ -1,0 +1,28 @@
+{
+	"name": "@mmankos/geodistance",
+	"version": "0.1.0",
+	"description": "Lightweight, zero-dependency, ES module utility for calculating the great-circle distance between two latitude/longitude coordinates, in kilometers, using the Haversine formula.",
+	"keywords": [
+		"geodistance",
+		"distance",
+		"kilometer",
+		"km",
+		"longitude",
+		"latitude",
+		"haversine",
+		"great-circle distance",
+		"coordinates"
+	],
+	"homepage": "https://github.com/mmankos/geodistance#readme",
+	"bugs": {
+		"url": "https://github.com/mmankos/geodistance/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mmankos/geodistance.git"
+	},
+	"license": "MIT",
+	"author": "Matej Maňkoš",
+	"type": "module",
+	"main": "src/index.mjs"
+}
